@@ -1,15 +1,15 @@
 # 94870-B2-Tell-Stories-with-Data---Channing
 ## About me
-Hello all! My name is Changzhou Zheng, and you can call me Channing. I am currently a MISM student who has 1 more semester to go before graduation. Fun fact about me: I love recording my life. With an action camera and a drone, I have recorded more than 500GB of videos regarding  my life, vacation, etc.  Clipping vlogs is also my interest but laziness is my biggest enemy :)
+Hello all! My name is Changzhou Zheng, and you can call me Channing. I am currently an MISM student who has one more semester to go before graduation. Fun fact about me: I love recording my life. With an action camera and a drone, I have recorded more than 500GB of videos regarding my life, vacation, etc. Clipping vlogs is also my interest, but laziness is my biggest enemy :)
 
 [[Click to view one of those!]](https://www.bilibili.com/video/BV1Ve4y12782/?share_source=copy_web&vd_source=7daa07c7d33adcb118ebc0eb4c0a4079)
 
 ## What I hope to learn
-My future career plan is to become a tech-consultant. I love to discuss with people regarding tech-related topics. And I know it is essential to convince people with insightful images, charts, or any sort of visualization. I will try my best to learn and understand the aesthetic approaches to optimize graphs and to get down to some of the popular visulization tools to facillitate me producing good-looking and convincing visualizations.
+My future career plan is to become a tech consultant. I love to discuss with people regarding tech-related topics. And I know it is essential to convince people with insightful images, charts, or any other visualization categories. So I will try my best to learn and understand the aesthetic approaches to optimize graphs and get down to some of the popular visualization tools to facilitate me to produce neat and convincing visualizations.
 
-With knowledge learned from this course, I hope I can elevate my capability to present or describe data and facts to a higher level.
+With the knowledge from this course, I hope to elevate my capability to present or describe data and facts to a higher level.
 
-Here is one of my data visualization project I've done when I was a undergradute student at Syracuse University. 👇 
+Here is one of my data visualization projects I've done when I was a undergradute student at Syracuse University. 👇 
 ![image](https://user-images.githubusercontent.com/102596125/199372134-248edcfb-cb8b-4da4-8564-6850e4aa9568.png)
 
 Feel free to leave any comments!
