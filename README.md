@@ -16,10 +16,10 @@ Feel free to leave any comments!
 
 ## Portfolio
 ### Week 1
-- [x] ### In-class sketching exercise
-- [x] ### Data visualization critique #1
-- [x] ### Controlling Color - week one sketching exercise
-- [x] ### Personal portfolio
+- [x] In-class sketching exercise
+- [x] Data visualization critique #1
+- [x] Controlling Color - week one sketching exercise
+- [x] Personal portfolio
 
 ### Week 2
 - [ ] Data visualization #1
