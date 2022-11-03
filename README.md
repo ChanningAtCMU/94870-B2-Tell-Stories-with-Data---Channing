@@ -46,3 +46,5 @@ Feel free to leave any comments!
 
 ### Final presentation
 - [ ] Will be held on Tuesday 12/06 and Thursday 12/08 during class
+
+[King County](/Week2KingCounty.md)
