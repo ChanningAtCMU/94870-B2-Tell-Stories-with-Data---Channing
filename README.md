@@ -23,7 +23,7 @@ Feel free to leave any comments!
 
 ### Week 2
 - [x] Crafting for Clarity- week two sketching exercise
-- [ ] [Data visualization #1](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/dataviz2.html)
+- [x] [Data visualization #1](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/dataviz2.html)
 
 ### Week 3
 - [ ] Assignment 3&4: Critique by Design
