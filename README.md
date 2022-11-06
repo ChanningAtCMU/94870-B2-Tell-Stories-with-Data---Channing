@@ -16,7 +16,7 @@ Feel free to leave any comments!
 
 ## Portfolio
 ### Week 1
-- [x] [In-class sketching exercise - King County](/Week2KingCounty.html)
+- [x] [In-class sketching exercise - King County](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/Week2KingCounty.html)
 - [x] Data visualization critique #1
 - [x] Controlling Color - week one sketching exercise
 - [x] Personal portfolio
