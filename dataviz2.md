@@ -14,6 +14,7 @@ The sparklines chart allowed the audience to see the changes throughout the enti
 
 Finally, the world map. The idea of drawing a world map to illustrate the data intends to build data on something the audience already knows (the world map). The map will immediately tell the audience the distribution of countries with the highest debt in the world. The world map is also an interactive visualization method. The audience could move their cursors on each data point and see the values and other related information. The most significant disadvantage is that it is not for presentations because a presenter could not spend an entire minute zooming in and clicking on every single data point, which will be time-consuming.
 
+
 ## Tableau highlight table
 <script type='module' src='https://prod-useast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-useast-a.online.tableau.com/t/channingsvizspace/views/OECDTableauWorkbook/OECDData' width='1707' height='903' hide-tabs toolbar='bottom' ></tableau-viz>
 Source: [OECD](https://data.oecd.org/chart/6Sau)
