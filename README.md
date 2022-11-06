@@ -23,7 +23,7 @@ Feel free to leave any comments!
 
 ### Week 2
 - [x] Crafting for Clarity- week two sketching exercise
-- [ ] [Data visualization #1](/dataviz2.md)
+- [ ] [Data visualization #1](/dataviz2.html)
 
 ### Week 3
 - [ ] Assignment 3&4: Critique by Design
@@ -47,4 +47,4 @@ Feel free to leave any comments!
 ### Final presentation
 - [ ] Will be held on Tuesday 12/06 and Thursday 12/08 during class
 
-[King County](/Week2KingCounty.md)
+[King County](/Week2KingCounty.html)
