@@ -16,7 +16,7 @@ Feel free to leave any comments!
 
 ## Portfolio
 ### Week 1
-- [x] In-class sketching exercise
+- [x] [In-class sketching exercise - King County](/Week2KingCounty.html)
 - [x] Data visualization critique #1
 - [x] Controlling Color - week one sketching exercise
 - [x] Personal portfolio
@@ -46,5 +46,3 @@ Feel free to leave any comments!
 
 ### Final presentation
 - [ ] Will be held on Tuesday 12/06 and Thursday 12/08 during class
-
-[King County](/Week2KingCounty.html)
