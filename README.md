@@ -1,4 +1,3 @@
-# 94870-B2-Tell-Stories-with-Data---Channing
 ## About me
 Hello all! My name is Changzhou Zheng, and you can call me Channing. I am currently an MISM student who has one more semester to go before graduation. Fun fact about me: I love recording my life. With an action camera and a drone, I have recorded more than 500GB of videos regarding my life, vacation, etc. Clipping vlogs is also my interest, but laziness is my biggest enemy :)
 
