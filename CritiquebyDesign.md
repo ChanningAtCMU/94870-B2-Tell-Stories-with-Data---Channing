@@ -49,5 +49,5 @@ Source: [Motor Sport Stats](https://www.motorsportstats.com/results/formula-one/
 7. The bright "DNF" signs distracted the audience from looking for the champions given that all numbers are in black.<br />
 **Solution:** Darkened the "DNF" signs. Hightlighted the champion for each grand prix.<br /><br />
 
-### THE ULTIMATE VISUALIZATION
+## FINALLY: THE ULTIMATE VISUALIZATION👇
 ![image](https://user-images.githubusercontent.com/102596125/202099385-da192375-5f59-443e-91b3-7987a166698d.png)
