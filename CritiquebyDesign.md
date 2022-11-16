@@ -25,11 +25,7 @@ Q5: If you are a fan of F1, what else do you wish to see? What on this chart you
 Interviewee  | Feedback
 ------------- | -------------
 Student, mid 20'  | A1: Maybe a geographic report because I saw national flags on the top.<br />A2: The way the chart was made was clean and concise.<br />A3: I noticed the numbers in the chart but had no idea what those were about. No title telling me what type of data it is.<br />A4: (After listening to my explanation) Now much better. I started to find the constructor who won the most championships. But I still don't understand the meaning of FL and PP, which were all over the chart.<br />A5: I'd like to see my favorite constructor's logo in the chart. That makes me more excited.
-Student, late 20'  | A1: Some kind of games or matches between national teams.
-A2: All the top three numbers for each country were highlighted, which was good because that tells me directly who won the game.
-A3: What do "PTS" and "GAP" mean? And why the last country has no data at all?
-A4: Okay, now I learned that Red Bull is the best team while Williams got a lot of improvement space. I'm focusing on finding out the trend for mid-table teams. And I'd also like to know the ranking gap between the two drivers for each constructor.
-A5: I don't think having the constructor logos on the left of their names was a good idea. You should eliminate the duplicated information. You might need to get rid of the blank column at the end as well.
+Student, late 20'  | A1: Some kind of games or matches between national teams.<br />A2: All the top three numbers for each country were highlighted, which was good because that tells me directly who won the game.<br />A3: What do "PTS" and "GAP" mean? And why the last country has no data at all?<br />A4: Okay, now I learned that Red Bull is the best team while Williams got a lot of improvement space. I'm focusing on finding out the trend for mid-table teams. And I'd also like to know the ranking gap between the two drivers for each constructor.<br />A5: I don't think having the constructor logos on the left of their names was a good idea. You should eliminate the duplicated information. You might need to get rid of the blank column at the end as well.
 
 
 ### Step five: Build your solution
