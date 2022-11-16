@@ -24,7 +24,7 @@ Q5: If you are a fan of F1, what else do you wish to see? What on this chart you
 
 Interviewee  | Feedback
 ------------- | -------------
-Student, mid 20'  | A1: Maybe a geographic report because I saw national flags on the top.__A2: The way the chart was made was clean and concise.__A3: I noticed the numbers in the chart but had no idea what those were about. No title telling me what type of data it is.__A4: (After listening to my explanation) Now much better. I started to find the constructor who won the most championships. But I still don't understand the meaning of FL and PP, which were all over the chart.__A5: I'd like to see my favorite constructor's logo in the chart. That makes me more excited.
+Student, mid 20'  | A1: Maybe a geographic report because I saw national flags on the top.<br />A2: The way the chart was made was clean and concise.<br />A3: I noticed the numbers in the chart but had no idea what those were about. No title telling me what type of data it is.<br />A4: (After listening to my explanation) Now much better. I started to find the constructor who won the most championships. But I still don't understand the meaning of FL and PP, which were all over the chart.<br />A5: I'd like to see my favorite constructor's logo in the chart. That makes me more excited.
 Student, late 20'  | A1: Some kind of games or matches between national teams.
 A2: All the top three numbers for each country were highlighted, which was good because that tells me directly who won the game.
 A3: What do "PTS" and "GAP" mean? And why the last country has no data at all?
