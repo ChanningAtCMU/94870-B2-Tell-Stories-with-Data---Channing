@@ -16,11 +16,11 @@ Source: [Motor Sport Stats](https://www.motorsportstats.com/results/formula-one/
 
 
 ### Step four: Test the solution
-Q1: In 10 seconds, can you tell me what this chart is about?
-Q2: Which part of the chart is the most eye-catching?
-Q3: What are the things that you are confused? 
-Q4: I will explain to you what this chart is about. After that, tell me your new concentration on this chart.
-Q5: If you are a fan of F1, what else do you wish to see? What on this chart you want to see less.
+Q1: In 10 seconds, can you tell me what this chart is about?<br />
+Q2: Which part of the chart is the most eye-catching?<br />
+Q3: What are the things that you are confused? <br />
+Q4: I will explain to you what this chart is about. After that, tell me your new concentration on this chart.<br />
+Q5: If you are a fan of F1, what else do you wish to see? What on this chart you want to see less.<br />
 
 Interviewee  | Feedback
 ------------- | -------------
@@ -32,5 +32,21 @@ Student, late 20'  | A1: Some kind of games or matches between national teams.<b
 **Original data visualization:**
 ![image](https://user-images.githubusercontent.com/102596125/202100403-4d97898a-d48b-4858-8b40-febc6336b965.png)
 Source: [Motor Sport Stats](https://www.motorsportstats.com/results/formula-one/2022/brazilian-grand-prix/standings)
+
+Revision Steps:
+1. It was hard for me to figure out constructor's position in each grand prix as my eyes looked to the bottom right. The table was too large to link the constructor and the grand prix locations.<br />
+Solution: Switched table from vertical view to a horizontal view.<br /><br />
+2. The audience doesn't understand the meaning of "FL" and "PP".<br />
+Solution: Since those were not important to the information delivery, I can get remove those from the chart.<br /><br />
+3. There was a large space between constructor names and the corresponding data to the right. It always took time to read the constructor names given some of them had similar calls.<br />
+Solution: Replaced the constructor names by their logos. Easily for the audience to locate their favorite team.<br /><br />
+4. The plain white background didn't show any trends. The audience would like to see whether a team was improving or falling behind.<br />
+Solution: Use heat map method to show this pattern.<br /><br />
+5. Still too many numbers. The revised version made me feel dizzy.<br />
+Solution: Removed all numbers except 1, 2, and 3. People only care about who won the games. We don't need the rest of the numbers; let the colors tell them the trends.<br /><br />
+6. A title would be helpful for non-F1 fans to understand what this chart is about.<br />
+Solution: Added a title.
+7. The bright "DNF" signs distracted the audience from looking for the champions given that all numbers are in black.<br />
+Solution: Darkened the "DNF" signs. Hightlighted the champion for each grand prix.<br /><br />
 
 ![image](https://user-images.githubusercontent.com/102596125/202099385-da192375-5f59-443e-91b3-7987a166698d.png)
