@@ -34,21 +34,21 @@ Student, late 20'  | A1: Some kind of games or matches between national teams.<b
 Source: [Motor Sport Stats](https://www.motorsportstats.com/results/formula-one/2022/brazilian-grand-prix/standings)
 
 **Revision Steps:**
-1. It was hard for me to figure out constructor's position in each grand prix as my eyes looked to the bottom right. The table was too large to link the constructor and the grand prix locations.<br />
-**Solution:** Switched table from vertical view to a horizontal view.<br /><br />
+1. It was hard for me to figure out constructors' positions in each grand prix as my eyes were looking to the bottom right. The table was too large for me to link a constructor and its position in those late grand prixes.<br />
+**Solution:** Redesigned the table from the vertical view to a horizontal view.<br /><br />
 2. The audience doesn't understand the meaning of "FL" and "PP".<br />
-**Solution:** Since those were not important to the information delivery, I can get remove those from the chart.<br /><br />
-3. There was a large space between constructor names and the corresponding data to the right. It always took time to read the constructor names given some of them had similar calls.<br />
-**Solution:** Replaced the constructor names by their logos. Easily for the audience to locate their favorite team.<br /><br />
+**Solution:** Since those were not important to the information delivery, I have removed from the chart.<br /><br />
+3. There were large blank spaces between the constructors and the corresponding data to the right. Meanwhile, it took time for me to read the constructors' names given some of them had similar calls.<br />
+**Solution:** Replaced the constructor names by their logos and shortened the spaces. Easily for the audience to locate their favorite team.<br /><br />
 4. People would like to see the gaps between teammates. They wanted to know whether the positions were because of teamwork or individual effort.<br />
 **Solution:** Added the position data for the other driver in each team.<br /><br />
 5. The plain white background didn't show any trends. The audience would like to see whether a team was improving or falling behind.<br />
 **Solution:** Use heat map method to show this pattern.<br /><br />
 6. Still too many numbers. The revised version made me feel dizzy.<br />
-**Solution:** Removed all numbers except 1, 2, and 3. People only care about who won the games. We don't need the rest of the numbers; let the colors tell the trends.<br /><br />
+**Solution:** Removed all positions except the top 3. People only care about who won the games. We don't need the rest; let the colors tell the trends.<br /><br />
 7. A title would be helpful for non-F1 fans to understand what this chart is about.<br />
 **Solution:** Added a title.<br /><br />
-8. The bright "DNF" signs distracted the audience from looking for the champions given that all numbers are in black.<br />
+8. The bright "DNF" signs distracted the audience from finding the champions given that all numbers are in a dark color.<br />
 **Solution:** Darkened the "DNF" signs. Hightlighted the champion for each grand prix.<br /><br />
 9. The first revision has an ugly Excel-generated color series.<br />
 **Solution:** Blue and orange always had an amazing mechanism. Made orange as the highest position and blue as the lowest. The darkest blue means that a driver didn't finish the game.<br /><br />
