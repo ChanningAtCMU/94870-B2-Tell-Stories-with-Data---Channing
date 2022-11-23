@@ -25,7 +25,7 @@ Feel free to leave any comments!
 - [x] [Data visualization #2](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/dataviz2.html)
 
 ### Week 3
-In-class Activity [Trust in News Organizations](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/trustInMedia.html)
+- [x] In-class Activity [Trust in News Organizations](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/trustInMedia.html)
 - [x] [Assignment 3&4: Critique by Design](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/CritiquebyDesign.html)
 
 ### Week 4
