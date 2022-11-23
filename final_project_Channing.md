@@ -35,7 +35,6 @@ For the last part, I will introduce the participating constructors to help peopl
 ![image](https://user-images.githubusercontent.com/102596125/203658354-e5111711-2545-47c7-a2eb-6233f529172b.png)
 ![image](https://user-images.githubusercontent.com/102596125/203658377-a406aeb3-2717-49ca-9781-3a3578e91215.png)
 ![image](https://user-images.githubusercontent.com/102596125/203658402-b9fda286-aa0f-441f-8b20-d13ce600d46b.png)
-![image](https://user-images.githubusercontent.com/102596125/203658413-4eabd0e2-7a16-43f3-908d-bc751f859821.png)
 ![image](https://user-images.githubusercontent.com/102596125/203658451-0c2d106c-baea-407d-a270-a7020e3dad91.png)
 ![image](https://user-images.githubusercontent.com/102596125/202099385-da192375-5f59-443e-91b3-7987a166698d.png)
 
