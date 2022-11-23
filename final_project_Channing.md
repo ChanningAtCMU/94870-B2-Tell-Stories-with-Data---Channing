@@ -18,8 +18,20 @@ For the last part, I will introduce the participating constructors to help peopl
 
 ---
 ## The Data
+1. [[motorsportstats.com]](https://motorsportstats.com/series/formula-one/summary/2022)<br>
+This data source has the most organized datasets for the past 2022 season. It also has the best visualization among all the sources and gives the most inspiration. Therefore, I will be using this source to build the most up-to-date visualization.<br><br>
 
+2. [[Formula One Official Website]](https://www.formula1.com/en.html)<br>
+This is Formula One’s official website. The main purpose of it is to certify the accuracy of other data. All other data should be based on the data of this website.<br><br>
 
+3. [[statsf1.com]](https://www.statsf1.com/en/default.aspx)<br>
+This data source has the most historical data for F1. Presumably, this site will compensate for the missing data from the first data source.<br><br>
+
+4. [[Some fun facts about F1]](https://www.grandprix247.com/2022/08/22/interesting-facts-from-the-world-of-formula-1/)<br>
+A journal with all the fun facts regarding F1. The information will show in the fourth part of the story.<br><br>
+
+5. [[gpracingstats.com]](https://gpracingstats.com/records/)<br>
+This website provides multiple statistical data for F1. I will be using this to visualize historical statistics data, such as a bar plot demonstrating the number of the championship won by each driver by order, etc.<br><br>
 
 ---
 ## Method and Medium
