@@ -16,5 +16,7 @@ Finally, the world map. The idea of drawing a world map to illustrate the data i
 
 
 ## Tableau highlight table
+<div class='tableauPlaceholder' id='viz1669244188063' style='position: relative'><noscript><a href='#'><img alt='Trust in news organizations - Circle Chart (source: Simmons Research) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RankingWorkbook&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RankingWorkbook&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ra&#47;RankingWorkbook&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+<script type='text/javascript'>
 
 Source: [OECD](https://data.oecd.org/chart/6Sau)
