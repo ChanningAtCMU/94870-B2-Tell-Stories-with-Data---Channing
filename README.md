@@ -29,7 +29,7 @@ In-class Activity [Trust in News Organizations](https://channingatcmu.github.io/
 - [x] [Assignment 3&4: Critique by Design](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/CritiquebyDesign.html)
 
 ### Week 4
-- [x] [Choosing Chart Types - week four sketching exercise]
+- [x] Choosing Chart Types - week four sketching exercise
 - [x] [Final Project, part one](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_Channing.html)
 
 ### Week 5
