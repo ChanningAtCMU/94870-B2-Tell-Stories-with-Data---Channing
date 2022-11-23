@@ -33,5 +33,7 @@ A journal with all the fun facts regarding F1. The information will show in the 
 5. [gpracingstats.com](https://gpracingstats.com/records/)<br>
 This website provides multiple statistical data for F1. I will be using this to visualize historical statistics data, such as a bar plot demonstrating the number of the championship won by each driver by order, etc.<br><br>
 
+
 ---
 ## Method and Medium
+For this project, I planned to use Shorthand as a digital medium that could help me represent the entire story. Therefore, all pictures and textual content will be delivered through Shorthand.
