@@ -33,8 +33,8 @@ Feel free to leave any comments!
 - [x] [Final Project, part one](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_Channing.html)
 
 ### Week 5
-- [ ] Practicing Persuasion - week five sketching exercise
-- [ ] Final Project, part two
+- [x] Practicing Persuasion - week five sketching exercise
+- [x] [Final Project, part two](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartII.html)
 
 ### Week 6
 - [ ] Final Project, part three
