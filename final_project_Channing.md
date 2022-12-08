@@ -61,3 +61,5 @@ This website provides multiple statistical data for F1. I will be using this to 
 ---
 ## Method and Medium
 For this project, I planned to use Shorthand as a digital medium that could help me represent the entire story. Therefore, all pictures and textual content will be delivered through Shorthand.
+
+[Go back to the main portfolio](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/)
