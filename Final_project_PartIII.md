@@ -20,3 +20,5 @@ I would like to express my special thanks to [@阿尔法罗密欧F1车队ORLEN](
 ## Previous Works:
 [Final Project, part one](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_Channing.html)<br>
 [Final Project, part two](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartII.html)
+
+[Go back to the main portfolio](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/)
