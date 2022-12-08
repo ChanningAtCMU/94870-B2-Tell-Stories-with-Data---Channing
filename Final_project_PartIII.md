@@ -8,6 +8,9 @@ It was a hard decision to choose among all the options I have thought about, hea
 ## Call To Action
 This project provides tips for incoming F1 scouts regarding choosing their preferred team and finding talented young drivers. For example, for finding good teams, we have an investment in junior teams as a critical index; and for discovering potentially competitive drivers, we have parameters such as nationalities, evaluation indices, etc. After going through the content, one may have a preference for how they will discover a good driver and their favorite teams in their mind.
 
+## Visualization Tool
+I was planning to draw similar visualizations as I had done in Part I. Still, considering the changes on the topic and other copyright issues, I finally decided to shuffle the entire structure. Most current visualizations were drawn on [Flourish.studio](https://flourish.studio/) because I found it a handy online tool that could make datasets neat and tidy. The embedded parameter bars automatically read everything and realize the graphs. No doubt, I will constantly be using Flourish in the future.
+
 ## Data
 Fortunately, I have found a generous contributor (ID: toUpperCase78) in the GitHub community who is willing to share the data he collected and the analyses he has done. I have also scraped the publicly available F1 historical championships data from Wikipedia.
 
