@@ -15,5 +15,5 @@ Fortunately, I have found a generous contributor (ID: toUpperCase78) in the GitH
 I would like to express my special thanks to [@阿尔法罗密欧F1车队ORLEN](https://weibo.com/u/7741193514) (Alfa Romeo F1 Team ORLEN) on Weibo for the photo permission and support. To see more of the best moments, visit the Weibo account @阿尔法罗密欧F1车队ORLEN or their Twitter account [@alfaromeoorlen](https://twitter.com/alfaromeoorlen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
 ## Previous Works:
-[Final Project, part one](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_Channing.html)
+[Final Project, part one](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_Channing.html)<br>
 [Final Project, part two](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartII.html)
