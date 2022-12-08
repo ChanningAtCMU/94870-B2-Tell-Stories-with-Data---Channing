@@ -27,4 +27,5 @@ Finally, the world map. The idea of drawing a world map to illustrate the data i
 </script>
 Source: [OECD](https://data.oecd.org/chart/6Sau)
 
+<br>
 [Go back to the main portfolio](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/)
