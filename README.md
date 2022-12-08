@@ -37,7 +37,7 @@ Feel free to leave any comments!
 - [x] [Final Project, part two](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartII.html)
 
 ### Week 6
-- [x] [Final Project, part three](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartIII.html)
+- [x] [Final Project, part three](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/Final_project_PartIII.html)
 - [ ] Cleaning up your online portfolio
 
 ### Week 7
