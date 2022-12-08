@@ -37,12 +37,12 @@ Feel free to leave any comments!
 - [x] [Final Project, part two](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartII.html)
 
 ### Week 6
-- [ ] Final Project, part three
+- [x] [Final Project, part three](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/final_project_PartIII.html)
 - [ ] Cleaning up your online portfolio
 
 ### Week 7
-- [ ] See assignment due dates from week six
-- [ ] Providing a critique for other presentations
+- [x] See assignment due dates from week six
+- [x] Providing a critique for other presentations
 
 ### Final presentation
-- [ ] Will be held on Tuesday 12/06 and Thursday 12/08 during class
+- [x] Will be held on Tuesday 12/06 and Thursday 12/08 during class
