@@ -46,3 +46,4 @@ Feel free to leave any comments!
 
 ### Final presentation
 - [x] Will be held on Tuesday 12/06 and Thursday 12/08 during class
+- [x] [Final Project via Shorthand](https://carnegiemellon.shorthandstories.com/telling-story-with-data-f1-scout/index.html)
