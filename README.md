@@ -38,7 +38,7 @@ Feel free to leave any comments!
 
 ### Week 6
 - [x] [Final Project, part three](https://channingatcmu.github.io/94870-B2-Tell-Stories-with-Data---Channing/Final_project_PartIII.html)
-- [ ] Cleaning up your online portfolio
+- [x] Cleaning up your online portfolio
 
 ### Week 7
 - [x] See assignment due dates from week six
